@@ -13,4 +13,4 @@ La distancia entre dos distritos es establecida en base a la diferencia de porce
 
 A esta comparación se le agrega una variable más, si en los dos distritos a comparar el ganador es el mismo o no. En el caso que el ganador sea el mismo será la diferencia del primero con el segundo transformado a un número absoluto. En el caso que sean diferentes los ganadores, El primer valor es transformado a un número negativo y luego se procede de la misma manera, se obtiene la diferencia del primero con el segundo, se convierte en un valor absoluto y este es convertido a un valor equivalente en pixeles.
 
-![Calcile pixeles](http://blogs.lanacion.com.ar/data/files/2015/12/Explicaci%C3%B3n-Distancia-entre-distritos-map-force-layout-1.jpg "Logo Title Text 1")
+![Cómo se calculó la distancia](http://blogs.lanacion.com.ar/data/files/2015/12/Explicaci%C3%B3n-Distancia-entre-distritos-map-force-layout-1.jpg "Cómo se calculó la distancia")
