@@ -5,11 +5,9 @@ date:   2016-04-06 -0300
 categories: dataviz
 ---
 
-# Cómo el voto en la argentina formó una nueva “división” política
-
 <iframe id="_app" frameborder="0" width="100%" height="800" scrolling="no" src="http://especiales.lanacion.com.ar/multimedia/proyectos/15/elecciones/eleccione_2015_arg_ballo_explosion/"></iframe>
 
-## Cómo se calcula la distancia?
+## Cómo se calcula la distancia
 
 La distancia entre dos distritos es establecida en base a la diferencia de porcentaje de los mismos y transformado en un valor equivalente en pixeles.
 
