@@ -4,7 +4,7 @@ title: News application
 permalink: /newsapp/
 ---
 <style>
-.post-list h2 { margin-bottom: none; }
+.post-list h2 { margin-bottom: 0; }
 </style>
 
 <ul class="post-list">
