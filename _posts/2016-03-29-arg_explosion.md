@@ -16,4 +16,4 @@ A esta comparación se le agrega una variable más, si en los dos distritos a co
 
 ![Cómo se calculó la distancia](http://blogs.lanacion.com.ar/data/files/2015/12/Explicaci%C3%B3n-Distancia-entre-distritos-map-force-layout-1.jpg "Cómo se calculó la distancia")
 
-Este mapa fue publicado el [blog de La Nación Data](http://blogs.lanacion.com.ar/data/sin-categoria/elecciones-2015-el-efecto-de-las-votaciones-en-los-distritos-de-la-argentina/)
+Este mapa fue publicado el [blog de La Nación Data](http://blogs.lanacion.com.ar/data/sin-categoria/elecciones-2015-el-efecto-de-las-votaciones-en-los-distritos-de-la-argentina/){:target="_blank"}
