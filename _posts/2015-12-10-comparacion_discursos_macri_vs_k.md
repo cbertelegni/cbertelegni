@@ -10,5 +10,5 @@ description: "Palabras clave, contrastes y frases que quedarán en la memoria; b
 
 Palabras clave, contrastes y frases que quedarán en la memoria; buscador por temas y videos para revivir los primeros mensajes de los mandatarios
 
-[Link a la app](http://www.lanacion.com.ar/1853009-especial-de-la-nacion-comparativo-de-los-discursos-de-asuncion-de-macri-cristina-y-nestor-kirchner)
+[Link a la app](http://www.lanacion.com.ar/1853009-especial-de-la-nacion-comparativo-de-los-discursos-de-asuncion-de-macri-cristina-y-nestor-kirchner){:target="_blank"}
 
