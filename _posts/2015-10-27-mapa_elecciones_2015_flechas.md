@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Elecciones 2015: dónde sumaron y dónde restaron los candidatos a presidente"
-date:   2015-10-27 -0300
+date: 2015-10-27 -0300
 categories: dataviz
 description: "Mapa que muestra con flechas cuantos votos ganaron los candidatos entre las paso y la elección general."
 ---
