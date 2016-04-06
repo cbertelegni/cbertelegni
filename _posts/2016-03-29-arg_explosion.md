@@ -5,7 +5,7 @@ date:   2016-04-06 -0300
 categories: dataviz
 ---
 
-<iframe id="_app" frameborder="0" width="100%" height="800" scrolling="no" src="http://especiales.lanacion.com.ar/multimedia/proyectos/15/elecciones/eleccione_2015_arg_ballo_explosion/"></iframe>
+<iframe id="_app" frameborder="0" width="100%" height="900" scrolling="no" src="http://especiales.lanacion.com.ar/multimedia/proyectos/15/elecciones/eleccione_2015_arg_ballo_explosion/"></iframe>
 
 ## Cómo se calcula la distancia
 
