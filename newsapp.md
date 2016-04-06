@@ -3,6 +3,9 @@ layout: page
 title: News application
 permalink: /newsapp/
 ---
+<style>
+.post-list h2 { margin-bottom: none; }
+</style>
 
 <ul class="post-list">
   {% for post in site.posts %}
