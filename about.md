@@ -5,11 +5,10 @@ permalink: /about/
 ---
 
 
-Inquieto y curioso, me gustan los desafíos y sobre todo conocer gente grosa de quién poder “tomar prestado” algo de conocimiento ;-).
+Inquieto y curioso, me gustan los desafíos y sobre todo conocer gente grosa de quien poder “tomar prestado” algo de conocimiento ;-).
 
-Cuando empece a trabajar como programador web para el diario La Nación conocí el mundo del “opendata” el cual es apasionante y sin límites. No hay techos en cuanto a conocimientos y tecnologías, siempre estas aprendiendo; lo que hace de este un rubro vertiginoso y lleno de adrenalina.
+Ingresé al diario La Nación como el _primer programador web dentro de la redacción_. Allí conocí el mundo del “opendata”, el cual es apasionante y sin límites. No hay techos en cuanto a conocimientos ni tecnologías, siempre estás aprendiendo; lo que hace de éste un rubro vertiginoso y lleno de adrenalina.
 
-Tuve el privilegio de trabajar con varias tecnologías como Php, Ruby, python y mucho Javascript y Css.
+Tuve el privilegio de trabajar con varias tecnologías como Python, Ruby, algo de Php y mucho Javascript.
 
-{% include icon-github.html username="cbertelegni" %}
-{% include icon-twitter.html username="cbertelegni" %}
+{% include icon-github.html username="cbertelegni" %} - {% include icon-twitter.html username="cbertelegni" %}
