@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ESPECIAL: comparativo de los discursos de asunción de Macri, Cristina y Néstor Kirchner"
+title:  "Comparativo de los discursos de asunción de Macri, Cristina y Néstor Kirchner"
 date:   2016-04-06 -0300
 categories: dataviz
 description: "Palabras clave, contrastes y frases que quedarán en la memoria; buscador por temas y videos para revivir los primeros mensajes de los mandatarios"
