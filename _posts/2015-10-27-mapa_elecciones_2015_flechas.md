@@ -8,4 +8,4 @@ description: "Mapa que muestra con flechas cuantos votos ganaron los candidatos 
 
 ## {{ description }}
 
-[Link a la news app](http://www.lanacion.com.ar/1840167-elecciones-2015-donde-sumaron-y-donde-restaron-los-candidatos-a-presidente)
+[Link a la news app](http://www.lanacion.com.ar/1840167-elecciones-2015-donde-sumaron-y-donde-restaron-los-candidatos-a-presidente){:target="_blank"}
