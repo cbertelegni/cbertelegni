@@ -1,6 +1,7 @@
 ---
 layout: page
 title: News application
+description: Algunas aplicaciones en la que participé
 permalink: /newsapp/
 ---
 <style>
