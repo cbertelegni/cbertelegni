@@ -18,3 +18,5 @@ Build project
 ```
 ~/myblog $ jekyll build
 ```
+
+Images server [http://imgsafe.org/](http://imgsafe.org/)
