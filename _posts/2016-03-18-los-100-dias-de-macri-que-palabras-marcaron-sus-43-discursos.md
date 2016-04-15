@@ -8,7 +8,7 @@ description: "Un desarrollo de LA NACION permite relevar los términos y los foc
 
 # Especial que analiza los discursos de Macri.
 
-Palabras más usadas, temas de los cuales habló y buscador por palabras.
+Palabras más usadas, temas de los cuales habló y buscador por palabras. Para esta info se utilizó d3.js y select2 entre otros.
 
 [Link a la app Diario La Nación](http://www.lanacion.com.ar/1880829-los-100-dias-de-macri-que-palabras-marcaron-sus-43-discursos){:target="_blank"}
 
