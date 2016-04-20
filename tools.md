@@ -1,14 +1,12 @@
 ---
 layout: page
 title: Herramientas que uso...
-description: Listado de herramentas interesantes y recursos interesantes...
+description: Listado de herramentas y recursos interesantes...
 permalink: /tools/
 ---
 <style>
 .post-list h2 { margin-bottom: 0; }
 </style>
-
-## List tools
 
 * [Sublimetext 3](https://www.sublimetext.com/3)
 * [Github.com/](https://github.com/)
@@ -17,3 +15,6 @@ permalink: /tools/
 * [http://gulpjs.com/](http://gulpjs.com/)
 * [http://leafletjs.com/](http://leafletjs.com/)
 * Customizar Bash [http://ezprompt.net/](http://ezprompt.net/)
+
+<br>
+<small>* Este listado puede estar desactualizado o incompleto.</small>
