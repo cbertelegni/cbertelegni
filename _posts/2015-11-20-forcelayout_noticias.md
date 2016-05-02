@@ -6,4 +6,4 @@ categories: dataviz
 description: "(d3js, forcelayout, python) Scrap de la home de varios diarios argentinos vinculados por los tag de las noticias"
 ---
 [Link ala app](http://forcenews.cbertelegni.com.ar/)
-<iframe frameborder="0" width="100%" height="1000" scrolling="auto" src="http://forcenews.cbertelegni.com.ar/"> </iframe>
+<iframe frameborder="0" width="100%" height="1200" scrolling="auto" src="http://forcenews.cbertelegni.com.ar/"> </iframe>
